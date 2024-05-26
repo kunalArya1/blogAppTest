@@ -21,7 +21,7 @@ const App = () => {
           plugins: [
             "image",
             "advlist",
-            "autolink",
+            // "autolink",
             "lists",
             "link",
             "image",
